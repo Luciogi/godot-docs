@@ -119,7 +119,7 @@ There is more to instances. With this feature, you can:
           corresponding packed scene.
 
 Let's try this. Open ``ball.tscn`` and select the Ball node. In the Inspector on
-the right, click on the PhysicsMaterial property to expand it.
+the right, click on the PhysicsMaterial property to expand it and select Edit option from menu.
 
 .. image:: img/instancing_physics_material_expand.webp
 
